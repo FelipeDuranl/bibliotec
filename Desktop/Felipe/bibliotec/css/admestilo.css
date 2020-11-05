@@ -1,0 +1,65 @@
+.nav-item{
+	margin: 0.2em;
+}
+
+.navbar-titulo{
+	font-family: 'Lobster', cursive;
+}
+
+
+.jumbotron-fluid{
+	background-image: url(../img/adimin/imagemfundoadm.png);
+	height: 48ch;
+	box-sizing: border-box; 
+	width: auto;
+}
+
+.display-4{
+
+	text-align: center;
+	margin-top: 1.7em;
+	box-sizing: border-box;
+	font-style: bold;
+	font-family: 'Courgette', cursive;
+}
+
+.atividades{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-style: bold;
+	margin: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.rodape{
+	background-color: #363636;
+	margin-top: 4em;
+	padding: 2.5em;
+	padding-bottom: 3.6em;
+	text-align: center;
+	color: #B5B5B5;
+	position: relative;
+    bottom:0;
+    width:100%;
+}
+
+.botao-voltar{
+	clear: both;
+	float: right;
+}
+
+td, th {
+	text-align: center;
+}
+
+.butn-deletar{
+	padding-left: 1.6em;
+	padding-right: 1.6em;
+	border-radius: 0.2em;
+}
+
+.rdpvalid{
+	position: absolute;
+    bottom:0;
+    padding-bottom: 1em;
+
+}
